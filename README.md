@@ -13,6 +13,8 @@ Nevertheless, household income is a good overall metric for classifying the econ
 ## Data Exploration:
 To explore this question, I used the open-source Opportunity Atlas database to download household income data for all of Baltimore County and all of Fairfax County. The raw data files are in the repository. After manipulating the raw data (as explained in the Data Analysis section), I generated an overlaid histogram for the two counties with median household incomes ranging from $40,000 to $80,000. Tables 1 and 2 show the frequencies of each income range for Baltimore and Fairfax, respectively. The data is visualized in Figure 1. 
 
+![](chart1minip1.png)
+
 From the figure, it is clear that there is a difference between the average median income for Baltimore and Fairfax. The distribution for Baltimore County is left skewed, while the distribution for Fairfax County follows more of a normal distribution, though is slightly right skewed. The average median incomes are $48,794 for Baltimore and $61,925 for Fairfax, which is a stark difference of $13,131. It is interesting that the distribution for Baltimore is almost the inverse of the distribution for Fairfax, though both averages are below the national average. 
 
 ## Discussion:
