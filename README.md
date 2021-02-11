@@ -13,11 +13,11 @@ The question then becomes: **How does average median household income differ bet
 ## Data Exploration:
 To explore this question, I used the open-source [Opportunity Atlas](https://www.opportunityatlas.org/) database to download household income data for all of Baltimore County and all of Fairfax County. The raw data files are in the repository. After manipulating the raw data (as explained in the Data Analysis section), I generated an overlaid histogram for the two counties with median household incomes ranging from $40,000 to $80,000. Tables 1 and 2 show the frequencies of each income range for Baltimore and Fairfax, respectively. The data is visualized in Figure 1. 
 
-*Table 1*
+#### *Table 1*
 ![](table1minip1.png)
-*Table 2*
+#### *Table 2*
 ![](table2minip1.png)
-*Figure 1*
+#### *Figure 1*
 ![](chart1minip1.png)
 
 
